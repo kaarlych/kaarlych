@@ -1,4 +1,4 @@
-# Hi 👋 My name is Karol Janowski and welcome to my profile!
+# Hi 👋, I'm Karol Janowski and welcome to my profile!
 
 ###
 
