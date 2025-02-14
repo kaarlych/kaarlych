@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karol Janowski and welcome to my profile! </h2>
+# Hi 👋 My name is Karol Janowski and welcome to my profile!
 
 ###
 
@@ -8,6 +8,8 @@
 </div>
 
 ###
+
+# 💻 Tech Stack:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
@@ -24,6 +26,8 @@
 </div>
 
 ###
+
+# 🐍 Funny Snake:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karol-Janowski/Karol-Janowski/output/github-snake-dark.svg" />
