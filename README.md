@@ -10,7 +10,7 @@ and advanced java course on polish market ever made. In the meantime I also join
 biggest java international learning community made by Mama Samba Braima Nelson (aka
 Amigoscode) and I'm continue on this path to this day. I'm also a big fan of neovim and terminal
 customization. After hours you will probably find me windsurfing in Rewa-Poland or playing
-with my cat (which is sitting next to me right now trying to help me writing this resume).
+with my cat (which is sitting next to me right now trying to help me write this resume).
 
 ---
 
