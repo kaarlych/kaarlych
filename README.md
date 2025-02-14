@@ -34,7 +34,5 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/reaction-6/sticker_6.gif?d11f25b178c7f54c84415487164e2cd9"  />
+<img src="pepe_ok.gif" alt="pepe_ok" width="30%" />
 </div>
-
-###
