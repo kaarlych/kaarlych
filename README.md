@@ -1,5 +1,7 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
+<img align="right" src="pepe_ok.gif" alt="pepe_ok" width="25%" />
+
 ### 🏄‍♂️ About me:
 Hi, my name is Karol Janowski. In 2022 I changed my career path from tax corporate lawyer to
 java backend developer and become a part of a second edition of Zajavka project made by Karol
@@ -11,6 +13,7 @@ customization. After hours you will probably find me windsurfing in Rewa-Poland 
 with my cat (which is sitting next to me right now trying to help me writing this resume).
 
 ---
+
 
 
 
@@ -48,11 +51,3 @@ with my cat (which is sitting next to me right now trying to help me writing thi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karol-Janowski/Karol-Janowski/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
----
-
-### 🐸 Funny Frog:
-
-<div align="center">
-<img src="pepe_ok.gif" alt="pepe_ok" width="30%" />
-</div>
