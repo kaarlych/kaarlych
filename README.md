@@ -37,8 +37,8 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 ### 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karol-Janowski&theme=dark&hide_border=false)" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karol-Janowski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=35%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaarlych&theme=dark&hide_border=false)" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaarlych&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=35%" />
 </div>
 
 
@@ -47,7 +47,7 @@ with my cat (which is sitting next to me right now trying to help me write this 
 ### 🐍 Funny Snake:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karol-Janowski/Karol-Janowski/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karol-Janowski/Karol-Janowski/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaarlych/kaarlych/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaarlych/kaarlych/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kaarlych/kaarlych/output/github-snake.svg" />
 </picture>
