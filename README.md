@@ -37,8 +37,8 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 ### 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaarlych&theme=dark&hide_border=false)" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaarlych&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=35%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaarlych&theme=tokyonight&hide_border=false)" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaarlych&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=35%" />
 </div>
 
 
