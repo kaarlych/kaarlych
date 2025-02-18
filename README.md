@@ -1,8 +1,9 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
-<img align="right" src="pikachu.jpg" alt="pikachu" width="45%" />
+<img align="right" src="pikachu.jpg" alt="pikachu" width="40%" />
 
 ### 🏄‍♂️ About me:
+<p style="text-align:left;">
 Hi, my name is Karol Janowski. In 2022 I changed my career path from tax corporate lawyer to
 java backend developer and become a part of a second edition of Zajavka project made by Karol
 Rogowski and Bartek Borowczyk (aka Programming Samurai) which is by far the most complex
@@ -11,6 +12,7 @@ biggest java international learning community made by Mama Samba Braima Nelson (
 Amigoscode) and I'm continue on this path to this day. I'm also a big fan of neovim and terminal
 customization. After hours you will probably find me windsurfing in Rewa-Poland or playing
 with my cat (which is sitting next to me right now trying to help me write this resume).
+</p>
 
 ---
 
