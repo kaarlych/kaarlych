@@ -1,6 +1,6 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
-<img align="right" src="pepe_ok.gif" alt="pepe_ok" width="25%" />
+<img align="right" src="pikachu.jpg" alt="pikachu" width="35%" />
 
 ### 🏄‍♂️ About me:
 Hi, my name is Karol Janowski. In 2022 I changed my career path from tax corporate lawyer to
