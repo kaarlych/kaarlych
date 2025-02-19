@@ -34,6 +34,8 @@ with my cat (which is sitting next to me right now trying to help me write this 
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="20" />
+  <img src="https://user-images.githubusercontent.com/3882981/42413703-62f30654-822e-11e8-9d46-18fb562f5490.png" height="50" alt="linux logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
 
