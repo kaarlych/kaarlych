@@ -28,13 +28,9 @@ with my cat (which is sitting next to me right now trying to help me write this 
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="20" />
-  <img src="https://avatars.githubusercontent.com/u/348262?s=280&v=4" height="50" alt="hibernate logo" />
-  <img width="20" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://user-images.githubusercontent.com/3882981/42413703-62f30654-822e-11e8-9d46-18fb562f5490.png" height="50" alt="linux logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
@@ -43,8 +39,7 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 ### 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaarlych&theme=tokyonight&hide_border=false)" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaarlych&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=35%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaarlych&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=35% />
 </div>
 
 
