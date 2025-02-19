@@ -28,6 +28,8 @@ with my cat (which is sitting next to me right now trying to help me write this 
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="20" />
+  <img src="https://avatars.githubusercontent.com/u/348262?s=280&v=4" height="50" alt="hibernate logo" />
+  <img width="20" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
