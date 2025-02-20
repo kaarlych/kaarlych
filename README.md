@@ -1,6 +1,6 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
-<img align="right" src="spongebob.gif" alt="spongebob" width="25%" />
+<img align="right" src="pepe_ok.gif" alt="pepe_ok" width="25%" />
 
 ### 🏄‍♂️ About me:
 <p style="text-align:left;">
