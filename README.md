@@ -1,6 +1,6 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
-<img align="right" src="catgirl-kawaii.gif" alt="cargirl" width="25%" />
+<img align="right" src="catgirl-kawaii.gif" alt="cargirl" width="27%" />
 
 ### 🏄‍♂️ About me:
 <p style="text-align:left;">
