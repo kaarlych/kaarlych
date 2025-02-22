@@ -1,6 +1,6 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
-<img align="right" src="pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="35%" />
+<img align="right" src="pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="40%" />
 
 ### 🏄‍♂️ About me:
 <p style="text-align:left;">
