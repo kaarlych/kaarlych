@@ -35,6 +35,8 @@ with my cat (which is sitting next to me right now trying to help me write this 
 ### 💻 __Tech Stack:__
 
 <div align="center">
+  <img src="pepe_chatting.gif" height="60" alt="pepe_chatting"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -46,6 +48,8 @@ with my cat (which is sitting next to me right now trying to help me write this 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="pepe_chatting.gif" height="60" alt="pepe_chatting"  />
+  <img width="20" />
 </div>
 
 ---
