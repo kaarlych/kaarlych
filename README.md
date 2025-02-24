@@ -17,34 +17,40 @@ customization. After hours you will probably find me windsurfing in Rewa-Poland 
 with my cat (which is sitting next to me right now trying to help me write this resume).
 </p>
 
-###  💃💃💃 __Currently coding to__ 💃💃💃
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-
 ---
-
-
 
 
 ### 💻 __Tech Stack:__
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="67" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="67" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="67" alt="postgresql logo"  />
   <img width="20" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="67" alt="spring logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="67" alt="linux logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="67" alt="git logo"  />
 </div>
 
 ---
+
+### 💃💃💃 Currently coding to 💃💃💃
+
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+
+---
+
 
 ### 📊 GitHub Stats:
 <div align="center">
