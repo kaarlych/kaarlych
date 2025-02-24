@@ -1,6 +1,10 @@
-# Hi 👋, I'm Karol Janowski and welcome to my profile!
+
+# Hi 👋, I'm Karol Janowski and welcome to my profile! 
+
+
 
 <img align="right" src="pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="37%" />
+
 
 ### 🏄‍♂️ About me:
 <p style="text-align:left;">
@@ -13,6 +17,11 @@ Amigoscode) and I'm continue on this path to this day. I'm also a big fan of neo
 customization. After hours you will probably find me windsurfing in Rewa-Poland or playing
 with my cat (which is sitting next to me right now trying to help me write this resume).
 </p>
+
+ ### 🎶🎶🎶 Currently playing: 🎶🎶🎶
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ---
 
