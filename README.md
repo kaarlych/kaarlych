@@ -1,7 +1,7 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
 
-<img align="right" src="pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="37%" />
+<img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="37%" />
 
 
 ### 🏄‍♂️ __About me:__
@@ -18,7 +18,7 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 ---
 
-<img align="left" src="pepe_chatting.gif" alt="cat-jam" width="3%" />
+<img align="left" src="resources/pepe_chatting.gif" alt="cat-jam" width="3%" />
 
 ###  __Tech Stack:__
 
@@ -40,14 +40,14 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 ### 💃💃💃 Currently coding to: 💃💃💃
 
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 
 
 ---
