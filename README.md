@@ -1,18 +1,5 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
-### 💃💃💃 Currently coding to: 💃💃💃
-
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-
-
----
 
 <img align="right" src="pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="37%" />
 
@@ -36,6 +23,7 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 <div align="center">
  <img align="left" src="pepe_chatting.gif" alt="cat-jam" height="60" />
+  <img align="left" src="pepe_chatting.gif" alt="cat-jam" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -47,7 +35,23 @@ with my cat (which is sitting next to me right now trying to help me write this 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img align="right" src="pepe_chatting.gif" alt="cat-jam" height="60" />
+  <img align="right" src="pepe_chatting.gif" alt="cat-jam" height="60" />
 </div>
+
+---
+
+### 💃💃💃 Currently coding to: 💃💃💃
+
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+
 
 ---
 
