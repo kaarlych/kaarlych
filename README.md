@@ -38,7 +38,7 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 ---
 
-### 💃💃💃 Currently coding to 💃💃💃
+### 💃💃💃 Currently coding to: 💃💃💃
 
 <img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 <img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
