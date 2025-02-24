@@ -47,7 +47,6 @@ with my cat (which is sitting next to me right now trying to help me write this 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img align="right" src="pepe_chatting.gif" alt="cat-jam" height="60" />
 </div>
 
 ---
