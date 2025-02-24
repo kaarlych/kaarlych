@@ -1,17 +1,11 @@
 
-# Hi 👋, I'm Karol Janowski and welcome to my profile! 
-
-###  Currently playing: 🎶🎶🎶
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
----
+# __Hi 👋, I'm Karol Janowski and welcome to my profile!__
 
 
 <img align="right" src="pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="37%" />
 
 
-### 🏄‍♂️ About me:
+### 🏄‍♂️ __About me:__
 <p style="text-align:left;">
 Hi, my name is Karol Janowski. In 2022 I changed my career path from tax corporate lawyer to
 java backend developer and become a part of a second edition of Zajavka project made by Karol
@@ -25,10 +19,16 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 ---
 
+###  💃💃💃 __Currently coding to__ 💃💃💃
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
 
 
 
-### 💻 Tech Stack:
+
+### 💻 __Tech Stack:__
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
