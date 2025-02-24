@@ -1,6 +1,18 @@
+# Hi 👋, I'm Karol Janowski and welcome to my profile!
 
-# __Hi 👋, I'm Karol Janowski and welcome to my profile!__
+### 💃💃💃 Currently coding to: 💃💃💃
 
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+
+
+---
 
 <img align="right" src="pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="37%" />
 
@@ -38,18 +50,7 @@ with my cat (which is sitting next to me right now trying to help me write this 
 
 ---
 
-### 💃💃💃 Currently coding to: 💃💃💃
 
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img align="left" src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img src="cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-
----
 
 
 ### 📊 GitHub Stats:
