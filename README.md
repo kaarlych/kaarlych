@@ -44,7 +44,7 @@ with my cat (which is sitting next to me right now trying to help me write this 
 <img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 <img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/karoljanowski)
 <img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 <img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 <img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
