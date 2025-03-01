@@ -1,20 +1,18 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
 
-<img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="33%" />
+<img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="27%" />
 
 
 - 🔭 Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
 
 - 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
 
-- 🔎 Looking for: java developer job
+- 🔎 Looking for: **java developer job**
 
 - 💬 Ask me about: everything
 
 - 📫 Reach me at: **karoljanowski@yahoo.com**
-
-- ⭐️Fun Fact: Octopuses have three hearts and blue blood! 🐙💙
 
 ---
 
