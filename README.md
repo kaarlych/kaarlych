@@ -3,6 +3,21 @@
 
 <img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="37%" />
 
+- 🎯 Passionate about: coding, windsurfing, electronic music, cats 🐱
+
+- 🔭 Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
+
+- 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
+
+- 🔎 Looking for: java developer job
+
+- 💬 Ask me about: everything
+
+- 📫 Reach me at: **karoljanowski@yahoo.com**
+
+- ⭐️Fun Fact: Octopuses have three hearts and blue blood! 🐙💙
+
+---
 
 ### 🏄‍♂️ __About me:__
 <p style="text-align:left;">
