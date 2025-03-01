@@ -1,7 +1,7 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
 
-<img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="32%" />
+<img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="34%" />
 
 
 ### → 🔭 Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
