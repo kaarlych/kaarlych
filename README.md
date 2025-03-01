@@ -4,15 +4,15 @@
 <img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="32%" />
 
 
-### - 🔭 Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
+### → 🔭 Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
 
-### - 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
+### → 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
 
-### - 🔎 Looking for: **java developer job**
+### → 🔎 Looking for: **java developer job**
 
-### - 💬 Ask me about: everything
+### → 💬 Ask me about: everything
 
-### - 📫 Reach me at: **karoljanowski@yahoo.com**
+### → 📫 Reach me at: **karoljanowski@yahoo.com**
 
 ---
 
