@@ -8,9 +8,9 @@
 
 ### → 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
 
-### → 🔎 Currently looking for: **purpose of life**
+### → 🔎 Currently looking for: __purpose of life__
 
-### → 💬 Ask me about: everything
+### → 💬 Ask me about: __everything__
 
 ### → 📫 Reach me at: **karoljanowski@yahoo.com**
 
