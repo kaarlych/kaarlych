@@ -1,32 +1,18 @@
 # Hi 👋, I'm Karol Janowski and welcome to my profile!
 
 
-<img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="34%" />
+<img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="33%" />
 
 
 ### → 🔭 Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
 
 ### → 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
 
-### → 🔎 Currently looking for: __purpose of life__
+### → 🔎 Currently looking for: **purpose in life**
 
-### → 💬 Ask me about: __everything__
+### → 💬 More about me: **![resume](https://kaarlych.github.io/portfolio/)**
 
 ### → 📫 Reach me at: **karoljanowski@yahoo.com**
-
----
-
-### 🏄‍♂️ __About me:__
-<p style="text-align:left;">
-Hi, my name is Karol Janowski. In 2022 I changed my career path from tax corporate lawyer to
-java backend developer and become a part of a second edition of Zajavka project made by Karol
-Rogowski and Bartek Borowczyk (aka Programming Samurai) which is by far the most complex
-and advanced java course on polish market ever made. In the meantime I also joined one of the
-biggest java international learning community made by Mama Samba Braima Nelson (aka
-Amigoscode) and I'm continue on this path to this day. I'm also a big fan of neovim and terminal
-customization. After hours you will probably find me windsurfing in Rewa-Poland or playing
-with my cat (which is sitting next to me right now trying to help me write this resume).
-</p>
 
 ---
 
