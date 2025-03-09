@@ -10,7 +10,7 @@
 
 ### → 🔎 Currently looking for: **purpose in life**
 
-### → 💬 More about me: **[resume](https://kaarlych.github.io/portfolio/)**
+### → 💬 More about me: **[resume](https://kaarlych.github.io/resume/)**
 
 ### → 📫 Reach me at: **karoljanowski@yahoo.com**
 
