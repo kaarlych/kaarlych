@@ -1,7 +1,7 @@
 # “The sea-reach of the Thames stretched before us like the beginning of an interminable waterway.” – J.Conrad, *Heart of Darkness*  🌊🌊🌊
 
 
-<img align="right" src="resources/waving-cat.gif" style="vertical-align: middle;" alt="waving-cat" width="24%" />
+<img align="right" src="resources/waving-cat.gif" style="vertical-align: middle;" alt="waving-cat" width="26%" />
 
 
 ### → 🔭 Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
