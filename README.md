@@ -16,9 +16,7 @@
 
 ---
 
-<img align="left" src="resources/pepe_chatting.gif" alt="cat-jam" width="3%" />
-
-###  __Tech Stack:__
+###  -> **Tech Stack:**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -36,7 +34,7 @@
 
 ---
 
-### 💃💃💃 Currently coding to: 💃💃💃
+### -> **Currently coding to:**
 
 <img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 <img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
@@ -50,7 +48,7 @@
 
 ---
 
-### 🐍 Funny Snake:
+### -> **Funny Snake:**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaarlych/kaarlych/output/github-snake-dark.svg" />
