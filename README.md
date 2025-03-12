@@ -4,15 +4,15 @@
 <img align="right" src="resources/waving-cat.gif" style="vertical-align: middle;" alt="waving-cat" width="26%" />
 
 
-### → 🔭 Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
+### -> Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
 
-### → 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
+### -> Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
 
-### → 💬 More about me: **[Resume](https://kaarlych.github.io/resume/)**
+### -> More about me: **[Resume](https://kaarlych.github.io/resume/)**
 
-### → 📫 Reach me at: **karoljanowski@yahoo.com**
+### -> Reach me at: **karoljanowski@yahoo.com**
 
-### → ⚡️ Fun fact about me: I once read whole tar man doc
+### -> Fun fact about me: I once read whole tar man doc
 
 ---
 
