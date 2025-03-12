@@ -12,7 +12,7 @@
 
 ### -> Reach me at: **karoljanowski@yahoo.com**
 
-### -> Fun fact about me: I once read whole tar man doc
+### -> Fun fact about me: I once read whole [tar doc](https://www.ibm.com/docs/nl/aix/7.2?topic=t-tar-command)
 
 ---
 
