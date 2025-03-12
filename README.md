@@ -8,11 +8,11 @@
 
 ### → 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
 
-### → 🔎 Currently looking for: **purpose in life**
-
 ### → 💬 More about me: **[resume](https://kaarlych.github.io/resume/)**
 
 ### → 📫 Reach me at: **karoljanowski@yahoo.com**
+
+### → ⚡️ Fun fact about me: Actually I know how to quit VIM
 
 ---
 
