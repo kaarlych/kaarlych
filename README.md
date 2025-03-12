@@ -8,7 +8,7 @@
 
 ### → 🌱 Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
 
-### → 💬 More about me: **[resume](https://kaarlych.github.io/resume/)**
+### → 💬 More about me: **[Resume](https://kaarlych.github.io/resume/)**
 
 ### → 📫 Reach me at: **karoljanowski@yahoo.com**
 
