@@ -1,4 +1,4 @@
-# “The sea-reach of the Thames stretched before us like the beginning of an interminable waterway.” – J.Conrad, *Heart of Darkness*
+# “The sea-reach of the Thames stretched before us like the beginning of an interminable waterway.” – 🌊🌊🌊 J.Conrad, *Heart of Darkness*
 
 
 <img align="right" src="resources/pikachu_hello.gif" style="vertical-align: middle;" alt="pikachu_hello" width="33%" />
