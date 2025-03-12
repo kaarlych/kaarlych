@@ -12,7 +12,7 @@
 
 ### → 📫 Reach me at: **karoljanowski@yahoo.com**
 
-### → ⚡️ Fun fact about me: Actually I know how to quit VIM
+### → ⚡️ Fun fact about me: I once read whole tar man doc
 
 ---
 
