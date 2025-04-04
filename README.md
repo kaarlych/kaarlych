@@ -1,4 +1,4 @@
-## *"We drive. We arrive. We leave. We drive again. And again… and again…"* ~ "Excelsior" Cab (Delamain #1 – Melancholic AI), *Cyberpunk 2077*
+# *"We drive. We arrive. We leave. We drive again. And again… and again…"* ~ "Excelsior" Cab (Delamain #1 – Melancholic AI), *Cyberpunk 2077*
 
 
 <img align="right" src="resources/waving-cat.gif" style="vertical-align: middle;" alt="waving-cat" width="26%" />
