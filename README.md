@@ -1,22 +1,6 @@
 # *"We drive. We arrive. We leave. We drive again. And again… and again…"* ~ "Excelsior" Cab (Delamain #1 – Melancholic AI), *Cyberpunk 2077*
 
-
-<img align="right" src="resources/waving-cat.gif" style="vertical-align: middle;" alt="waving-cat" width="26%" />
-
-
-### 🚗 -> Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
-
-### 🍀 -> Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
-
-### 💼 -> More about me: **[Resume](https://kaarlych.github.io/resume/)**
-
-### 🧚🏻‍♂️ -> Reach me at: **karoljanowski@yahoo.com**
-
-### ⚡️ -> Fun fact about me: I once read whole [tar doc](https://www.ibm.com/docs/nl/aix/7.2?topic=t-tar-command)
-
----
-
-###  💻 -> **Tech Stack:**
+### **Tech Stack:**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -32,7 +16,7 @@
 
 ---
 
-### 🎹 -> **Currently coding to:**
+### **Currently coding to:**
 
 <img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
 <img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
@@ -46,7 +30,7 @@
 
 ---
 
-### 🐍 -> **Funny Snake:**
+### **Funny Snake:**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaarlych/kaarlych/output/github-snake-dark.svg" />
