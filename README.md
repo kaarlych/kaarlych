@@ -35,7 +35,7 @@
 ### 🎹 -> **Currently coding to:**
 <div align="center">
 <img src="resources/pepe_dance.gif" width="250" height="100" alt="cat-jam" />
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" width="250" height="100" alt="cat-jam" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" width="300" height="100" alt="cat-jam" />
 <img src="resources/pepe_dance.gif" width="250" height="100" alt="cat-jam" />
 </div>
 
