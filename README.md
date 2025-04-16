@@ -1,6 +1,20 @@
 <a href="https://open.spotify.com/user/karoljanowski">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" width="350" height="100"  />
 
+---
+
+### **About me:**
+
+### -> Currently working on: **[car-dealership-project](https://github.com/kaarlych/car-dealership-project)**
+
+### -> Currently learning: **[Spring Framework](https://github.com/kaarlych/spring-exercises)** and **[Hibernate ORM](https://github.com/kaarlych/hibernate-exercises)**
+
+### -> More about me: **[Resume](https://kaarlych.github.io/resume/)**
+
+### -> Reach me at: **karoljanowski@yahoo.com**
+
+---
+
 ### **Tech Stack:**
 
 <div align="center">
