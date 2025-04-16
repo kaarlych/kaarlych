@@ -1,4 +1,5 @@
-# *"We drive. We arrive. We leave. We drive again. And again… and again…"* ~ "Excelsior" Cab (Delamain #1 – Melancholic AI), *Cyberpunk 2077*
+<a href="https://open.spotify.com/user/karoljanowski">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" width="350" height="100"  />
 
 ### **Tech Stack:**
 
@@ -13,15 +14,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
-
----
-
-### **Currently coding to:**
-<div align="center">
-  <a href="https://open.spotify.com/user/karoljanowski">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" width="350" height="100"  />
-  </a>
-  </div>
 
 
 ---
