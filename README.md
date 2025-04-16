@@ -17,20 +17,16 @@
 ---
 
 ### **Currently coding to:**
-
-<img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img align="left" src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/karoljanowski)
-<img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
-<img src="resources/cat-jam-cat.gif" style="vertical-align: middle;" alt="cat-jam" width="10%" />
+<div align="center">
+  <a href="https://open.spotify.com/user/karoljanowski">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=karoljanowski&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" width="350" height="100"  />
+  </a>
+  </div>
 
 
 ---
 
-### **Funny Snake:**
+### **Snake:**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaarlych/kaarlych/output/github-snake-dark.svg" />
