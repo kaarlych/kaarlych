@@ -6,7 +6,7 @@
 
 ### -> Currently working on: **[car-dealership-project](https://github.com/kaarlych/car-dealership-project)**
 
-### -> Currently learning: **[Spring Framework](https://github.com/kaarlych/spring-exercises)** and **[Hibernate ORM](https://github.com/kaarlych/hibernate-exercises)**
+### -> Currently learning: **[Spring Framework](https://github.com/kaarlych/spring-examples)** and **[Hibernate ORM](https://github.com/kaarlych/hibernate-examples)**
 
 ### -> WIP: **[Portfolio](https://kaarlych.github.io)**
 
