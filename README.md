@@ -12,7 +12,7 @@
 
 ### 🧚🏻‍♂️ -> Reach me at: **karoljanowski.dev@gmail.com**
 
-### ⚡️ -> Checkout my **[.dotFiles](https://github.com/kaarlych/.dotFiles)** and **[python-cv-generator]((https://github.com/kaarlych/python-cv-generator)**
+### ⚡️ -> Checkout my **[.dotFiles](https://github.com/kaarlych/.dotFiles)** and **[python-cv-generator](https://github.com/kaarlych/python-cv-generator)**
 
 ---
 
