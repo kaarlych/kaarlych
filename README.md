@@ -4,15 +4,15 @@
 <img align="right" src="resources/waving-cat.gif" style="vertical-align: middle;" alt="waving-cat" width="26%" />
 
 
-### 🚗 -> Currently working on: **[carDealershipProject](https://github.com/kaarlych/carDealershipProjectZajavka)**
+### 🚗 -> Currently working on: **[car-dealership-project](https://github.com/kaarlych/car-dealership-project)**
 
-### 🍀 -> Currently learning: **[Spring Framework](https://github.com/kaarlych/springDataAccessProjectZajavka)** and **[Hibernate ORM](https://github.com/kaarlych/HibernateExamples)**
+### 🍀 -> Currently learning: **[Spring Framework](https://github.com/kaarlych/spring-exercises)** and **[Hibernate ORM](https://github.com/kaarlych/hibernate-exercises)**
 
-### 💼 -> More about me: **[Resume](https://kaarlych.github.io/resume/)**
+### 💼 -> WIP: **[Portfolio](https://kaarlych.github.io)**
 
-### 🧚🏻‍♂️ -> Reach me at: **karoljanowski@yahoo.com**
+### 🧚🏻‍♂️ -> Reach me at: **karoljanowski.dev@gmail.com**
 
-### ⚡️ -> Fun fact about me: I once read whole [tar doc](https://www.ibm.com/docs/nl/aix/7.2?topic=t-tar-command)
+### ⚡️ -> Checkout my **[.dotFiles](https://github.com/kaarlych/.dotFiles)** and **[python-cv-generator]((https://github.com/kaarlych/python-cv-generator)**
 
 ---
 
